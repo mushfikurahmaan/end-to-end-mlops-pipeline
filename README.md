@@ -1,1 +1,1 @@
-# end-to-end-mlops-pipeline
+# End to end machine learning operations pipeline
